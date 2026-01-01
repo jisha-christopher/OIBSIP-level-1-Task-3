@@ -18,6 +18,7 @@ Fully responsive across all devices
 
 🚀 Live Demo:
 🔗 https://jisha-christopher.github.io/OIBSIP-level-1-Task-3/
+Github repository:https://github.com/jisha-christopher/OIBSIP-level-1-Task-3.git
 
 👩‍💻 Created by: Jisha
 
