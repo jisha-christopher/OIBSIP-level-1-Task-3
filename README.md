@@ -17,7 +17,7 @@ Clean, modern, and user-friendly design
 Fully responsive across all devices
 
 🚀 Live Demo:
-🔗 https://lini-dev.github.io/temperature-converter-web-app
+🔗 https://jisha-christopher.github.io/OIBSIP-level-1-Task-3/
 
 👩‍💻 Created by: Jisha
 
