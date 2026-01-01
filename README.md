@@ -1,6 +1,4 @@
-🌡️🔢 Frontend Web Development Projects | HTML • CSS • JavaScript
 
-I’m happy to share two web applications I built as part of my Web Development & Design Internship (Level 1 tasks). These projects helped me improve my understanding of JavaScript logic, UI design, and responsive layouts while applying concepts in real-world scenarios.
 
 🌡️ Temperature Converter Web Application
 
